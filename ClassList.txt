@@ -1,0 +1,33 @@
+-Southern Adventist University-
+
+CPTR-318 Grade: -A
+Advanced data structures including heaps, hash tables, height-balanced trees, and graphs. Techniques for data abstraction. 
+Algorithms that have application in many areas of computer science including searching, sorting, and graph algorithms. Recursive 
+algorithms. Analysis of algorithms including time and space complexity analysis. Criteria for choosing data structures and algorithms.
+
+CPTR-328 Grade: A
+Principles and issues related to computer networking and data communications. Network topologies, network protocols, network 
+models, routing, congestion control, Internet working, security and privacy.
+
+CPTR-332 Grade: A
+Basic machine organization and architecture. Processor components, instruction sets, memory types and hierarchy. Introduction 
+to data representation, instruction formats, addressing techniques, assembly language, pipelining, and I/O bus architectures. 
+Three hours of lecture each week.
+
+CPTR-319 Grade: A
+Introduction to database management systems, including data modeling, query languages and processing, database design, data 
+integrity and security. Issues related to distributed database systems, object-oriented database systems, and legacy database 
+systems are also discussed.
+
+CPTR-215 Grade: A-
+Introduction to software design methods. Elementary data structures. Development of reliable, modifiable programs. Three hours 
+of lecture and three hours of laboratory work each week.
+
+CPTR-124 Grade: A
+Control structures, data types, data representation, compiling, debugging, modularity, and standard programming algorithms are 
+introduced, using a higher level language. Three hours of lecture and three hours of laboratory work each week.
+
+CPTR-108 Grade: A-
+Introduction to programming and the major areas of computing. An overview of algorithmic problem solving, computer organization, 
+operating systems, networking, information systems, and social and ethical issues in computing. Two hours of lecture and three 
+hours lab each week.
